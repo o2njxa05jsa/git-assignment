@@ -14,7 +14,13 @@ def multi_sort(arr, cmp, method="None"):
         print("invalid argument!")
 # must be in-place sort
 def merge_sort(arr,cmp):
+    # Hello I am A
+    # I finished the merge sort using comments only
+    # done.
     pass
+
+
+
 # must be in-place sort
 def quick_sort(arr,cmp):
     pass
